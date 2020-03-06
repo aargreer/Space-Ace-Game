@@ -6,7 +6,12 @@ command "lime test neko" in the source directory or by running the
 .exe located in export/bin/GameProject1.exe
 
 Controls:
+
+
 Mouse - aim
+
 Left mouse click - fire
+
+
 
 Hope you enjoy!
