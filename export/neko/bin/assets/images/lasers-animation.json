@@ -1,0 +1,28 @@
+{"frames": [
+
+{
+	"filename": "lasers.png",
+	"frame": {"x":0,"y":0,"w":640,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":320},
+	"sourceSize": {"w":640,"h":320}
+},
+{
+	"filename": "lasers-fired.png",
+	"frame": {"x":640,"y":0,"w":640,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":320},
+	"sourceSize": {"w":640,"h":320}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "lasers-animation.png",
+	"format": "RGBA8888",
+	"size": {"w":1280,"h":320},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3faf4d7642c48ef9af375bc52cc90f1a:4a8a735f6fcbb18561656b99a0577bfa:92b78f5753dd3ff01677270c5ce55ab8$"
+}
+}
